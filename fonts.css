@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Franklin Gothic Book";
+   src: url("fonts/Franklin Gothic Book.woff") format("woff"), url("fonts/Franklin Gothic Book.eot") format("embedded-opentype"), url("fonts/Franklin Gothic Book.TTF") format("truetype"), url("fonts/Franklin Gothic Book.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Franklin Gothic Book";
+   src: url("fonts/Franklin Gothic Book Italic.woff") format("woff"), url("fonts/Franklin Gothic Book Italic.eot") format("embedded-opentype"), url("fonts/Franklin Gothic Book Italic.TTF") format("truetype"), url("fonts/Franklin Gothic Book Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}
